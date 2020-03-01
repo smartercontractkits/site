@@ -1,0 +1,42 @@
+body {
+	position: absolute;
+	margin: auto;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	-webkit-transform: translate(-50%, -50%);
+	-moz-transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	background-color: #77DD77;
+	cursor: pointer;
+	text-align: center;
+	font-size: 1.5em;
+	color: #F5F5F5;
+	font-family: 'Roboto', sans-serif;
+}
+
+@media (max-device-width:1080px) {
+	body {
+		font-size: 3.5em;
+	}
+}
+
+noscript {
+	font-size: 1.5em;
+}
+
+img {
+	max-width: 2.1em;
+}
+
+a {
+	color: #F5F5F5;
+	text-decoration: none;
+}
+
+p {
+	color: #F5F5F5;
+	border: 1px solid #F5F5F5;
+	padding: 10px;
+	border-radius: 15px;
+}
