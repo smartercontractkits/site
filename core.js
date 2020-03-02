@@ -6,9 +6,9 @@
 function loop(data) {
 	var output = "";
 	for(var i = 0; i < data.length; i++) {
-    	output += " <a href=\"" + data[i][0] + "\">" + data[i][1] + "</a>";
-    }
-    document.body.innerHTML = "<span>" + output + "</span>";   
+		output += " <a href=\"" + data[i][0] + "\">" + data[i][1] + "</a>";
+	}
+	document.body.innerHTML = "<span>" + output + "</span>";   
 }
 /////////////////////
 //PageChange Function
