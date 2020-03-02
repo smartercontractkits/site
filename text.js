@@ -12,7 +12,7 @@ var alliance; //Team Page
 contents =	[
 /////////////
 mainpage =	[//Under 250 Chars
-			["https://bit.ly/38avY3R",	"<img src=\"imgs/hexagon.png\"></img> <b>nuLink</b>, a decentrally-developed blockchain-based middleware, acting as a bridge between cryptocurrency smart contracts, and off-chain resources like data feeds, APIs and traditional bank account payments."]
+			["https://bit.ly/38avY3R",	"<img src=\"imgs/hexagon.png\"></img> <b>nuLink</b> a decentralised oracle system for Ethereum smart contracts"]
 			],
 
 pamphlet =	[//ISO 639-1 Codes
