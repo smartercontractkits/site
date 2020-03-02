@@ -1,4 +1,5 @@
 body {
+	overflow: hidden;
 	height: 100vh;
 	background-color: #77DD77;
 	text-align: center;
