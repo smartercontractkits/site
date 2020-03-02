@@ -17,7 +17,7 @@ mainpage =	[//Under 250 Chars
 
 pamphlet =	[//ISO 639-1 Codes
 			["https://bit.ly/2wcP0cq",	"<img src=\"imgs/de.png\"></img>"],
-			["https://bit.ly/2wcP0cq",	"<img src=\"imgs/en.png\"></img>"],
+			["docs/whitepaper.pdf",		"<img src=\"imgs/en.png\"></img>"],
 			["https://bit.ly/2wcP0cq",	"<img src=\"imgs/fr.png\"></img>"],
 			["https://bit.ly/2wcP0cq",	"<img src=\"imgs/it.png\"></img>"]
 			],
