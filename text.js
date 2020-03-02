@@ -24,7 +24,7 @@ pamphlet =	[//ISO 639-1 Codes
 
 exchange =	[//List Major Ones
 			["https://bit.ly/384Zpny",	"<p>ForkDelta</p>"],
-			["https://bit.ly/2PvqNET",	"<p>Saturn Network</p>"],
+			["https://bit.ly/2PvqNET",	"<p>Saturn DEX</p>"],
 			["https://bit.ly/2uFBbTy",	"<p>Uniswap</p>"]
 			],
 
