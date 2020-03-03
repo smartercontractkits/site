@@ -13,9 +13,8 @@ function loop(data) {
 /////////////////////
 //PageChange Function
 function turnpage(event) {
-	var half = (event.target.offsetHeight/2); 
-	if (event.target.tagName !== "span") {
-		(event.clientY < half) ? state-- : state++;
+	if (event.target.tagName == "BODY" || event.target.tagName == "DIV") {
+		(event.clientY < event.target.offsetHeight/2) ? state-- : state++;
 		state = Math.min(4, Math.max(0, state));
 		loop(contents[state]);
 	}
