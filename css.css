@@ -37,6 +37,20 @@ noscript {
 	font-size: 1.5em;
 }
 
+div {
+	position: absolute;
+	bottom: 2.5em;
+	width: 100%;
+	opacity: 0.75;
+	animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+	50% {
+		opacity: 0;
+	}
+}
+
 img {
 	max-width: 2.1em;
 	padding: 2px;
